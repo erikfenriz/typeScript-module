@@ -1,0 +1,17 @@
+header {
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    background: #007bff;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background: #0056b3;
+}

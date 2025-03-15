@@ -1,0 +1,14 @@
+{
+  "name": "typescript-module",
+  "version": "1.0.0",
+  "description": "TypeScript Module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "5.8.2"
+  }
+}
