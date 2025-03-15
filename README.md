@@ -21,5 +21,7 @@ Typescript: A scripting or programming language that allows you to implement com
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Typescript documentation](https://www.typescriptlang.org/docs/handbook/2/classes.html)
 * [YouTube / Khan Academy](https://youtu.be/zg-ddPbzcKM?si=IziwSajirukBCV-N)
+* [w3school](https://www.w3schools.com/typescript/typescript_arrays.php)
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
